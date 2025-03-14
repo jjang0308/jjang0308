@@ -35,5 +35,6 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
 
-    
 </div>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghyuk5094)](https://solved.ac/janghyuk5094/)
